@@ -1,0 +1,3 @@
+Pair Programming Project
+
+This project demonstrates collaboration between two developers using Git and GitHub.
